@@ -11,7 +11,7 @@ namespace Commander.Models
         [MaxLength(250)]
         public string HowTo { get; set; }
 
-        [Required]
+        [Required] 
         public string Line { get; set; }
 
         [Required]

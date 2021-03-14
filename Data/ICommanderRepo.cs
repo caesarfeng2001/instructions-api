@@ -3,7 +3,7 @@ using Commander.Models;
 
 namespace Commander.Data
 {
-    public interface ICommanderRepo
+    public interface ICommanderRepo 
     {
         bool SaveChanges();
 

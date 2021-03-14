@@ -3,7 +3,7 @@
   "dgSpecHash": "ex9hkyJuIRpBhnHKGXeji3AWHmzdCZSMM79+gO6ZrapyykRBTz8rZr3r2Z31g3C0pG3VRPOoo4Ht2nvcLEqZdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\caesa\\Commander\\Commander.csproj",
-  "expectedPackageFiles": [
+  "expectedPackageFiles": [ 
     "C:\\Users\\caesa\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\caesa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\caesa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

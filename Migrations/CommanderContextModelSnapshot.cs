@@ -10,7 +10,7 @@ namespace Commander.Migrations
     [DbContext(typeof(CommanderContext))]
     partial class CommanderContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder) 
         {
 #pragma warning disable 612, 618
             modelBuilder

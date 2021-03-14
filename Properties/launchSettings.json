@@ -15,7 +15,7 @@
       "launchUrl": "weatherforecast",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      } 
     },
     "Commander": {
       "commandName": "Project",

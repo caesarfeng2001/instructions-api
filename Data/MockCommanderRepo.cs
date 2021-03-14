@@ -5,7 +5,7 @@ namespace Commander.Data
 {
     public class MockCommanderRepo : ICommanderRepo
     {
-        public void CreateCommand(Command cmd)
+        public void CreateCommand(Command cmd) 
         {
             throw new System.NotImplementedException();
         }

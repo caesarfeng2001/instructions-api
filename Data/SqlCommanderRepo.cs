@@ -6,7 +6,7 @@ using Commander.Models;
 namespace Commander.Data
 {
     public class SqlCommanderRepo : ICommanderRepo
-    {
+    { 
         private readonly CommanderContext _context;
 
         public SqlCommanderRepo(CommanderContext context)

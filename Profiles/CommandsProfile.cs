@@ -15,4 +15,4 @@ namespace Commander.Profiles
             CreateMap<CommandUpdateDto, Command>().ReverseMap();
         }
     }
-}
+} 

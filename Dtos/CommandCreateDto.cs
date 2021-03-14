@@ -5,7 +5,7 @@ namespace Commander.Dtos
     public class CommandCreateDto
     {
         [Required]
-        [MaxLength(250)]
+        [MaxLength(250)] 
         public string HowTo { get; set; }
 
         [Required]

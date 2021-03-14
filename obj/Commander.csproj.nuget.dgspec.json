@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\Users\\caesa\\Commander\\Commander.csproj",
         "projectName": "Commander",
         "projectPath": "C:\\Users\\caesa\\Commander\\Commander.csproj",
-        "packagesPath": "C:\\Users\\caesa\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\caesa\\.nuget\\packages\\", 
         "outputPath": "C:\\Users\\caesa\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
